@@ -1,1 +1,59 @@
-# .github.io
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atalaya 1525 Suites - Una Leyenda Renace</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="hero-section">
+        <div class="hero-content">
+            <img src="img/sello-conquistador.png" alt="Sello de Atalaya 1525" class="sello">
+            <h1>1525. UNA LEYENDA RENACE EN TAGANGA.</h1>
+            <p>Un refugio para exploradores. Una atalaya sobre el Caribe. Próximamente.</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="manifesto-section">
+            <h2>NO SOMOS UN HOTEL.</h2>
+            <p>Somos un hito. Un punto de sincronización. Creemos que el verdadero lujo no está en el mármol, sino en la perspectiva. Creemos que el esfuerzo del ascenso dignifica la gloria de la recompensa. Por eso, no abrimos nuestras puertas a turistas. Se las abrimos a cronistas, a soñadores, a guerreros que buscan un respiro. Somos el secreto mejor guardado de la montaña. Somos la promesa de un horizonte que espera ser conquistado. Somos Atalaya 1525.</p>
+        </section>
+
+        <section class="cronica-section">
+            <h2>NUESTRA HISTORIA. NUESTRO JURAMENTO.</h2>
+            <p>
+                [Texto del Fundador sobre la resiliencia y la visión...]
+            </p>
+        </section>
+
+        <section class="galeria-section">
+            <div class="galeria-grid">
+                <img src="img/diario.jpg" alt="Diario de cuero antiguo">
+                <img src="img/catalejo.jpg" alt="Catalejo de latón">
+                <img src="img/imgllave.png" alt="Llave de hierro forjado">
+                <img src="img/piedra_1525.jpeg" alt="Número 1525 grabado en piedra">
+                <img src="img/imgmapa_antiguo.jpeg" alt="Detalle de un mapa antiguo">
+            </div>
+        </section>
+
+        <section class="legion-section">
+            <h2>SÉ PARTE DE LOS FUNDADORES.</h2>
+            <p>La historia no espera. Reclama tu lugar.</p>
+            <p class="form-description">Inscríbete y sé el primero en conocer la fecha de apertura y acceder a una tarifa preferencial única y secreta.</p>
+            <a href="https://forms.gle/KnquuuWv2qCxUBUFA" class="cta-button" target="_blank">UNIRME A LA LEYENDA</a>
+        </section>
+    </main>
+
+    <footer>
+        <style>.hero-section { background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/hero-background.jpeg'); background-size: cover; background-position: center; }</style>
+        <p>&copy; 2025 Atalaya 1525 Suites. Forjado en Taganga, Colombia.</p>
+    </footer>
+
+</body>
+</html># .github.io
